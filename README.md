@@ -15,7 +15,7 @@
 
 ## Top Languages
 
-<p align="center">
+<p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvirayhan&theme=gruvbox&stroke=f53b3b&card_width=500&bg_color=0d1117">
 </p>
 ## 🏆 GitHub Trophies
