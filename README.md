@@ -7,6 +7,10 @@
 </p>
 <br>
 <br>    
+<p> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nextjs,github,mongodb,css,html,express,nodejs,react,redux,firebase,tailwind,bootstrap,figma,git,heroku,materialui,netlify,postman,threejs"> </a> </p>
+
+<p> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nextjs,github,mongodb,css,html,express,nodejs,react,redux,firebase,tailwind,bootstrap,figma,git,heroku,materialui,netlify,postman,threejs"> </a> </p>
+
 
 
 # 📊 GitHub Stats:
@@ -20,8 +24,6 @@
 </p>
 
 ## Languages and Tools
-
-<p> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nextjs,github,mongodb,css,html,express,nodejs,react,redux,firebase,tailwind,bootstrap,figma,git,heroku,materialui,netlify,postman,threejs"> </a> </p>
 
 
 [![](https://visitcount.itsvg.in/api?id=hmathir&icon=0&color=0)](https://visitcount.itsvg.in)
