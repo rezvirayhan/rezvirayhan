@@ -7,7 +7,7 @@
 </p>
 <br>
 <br>    
-<p> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nextjs,github,mongodb,css,html,express,nodejs,react,redux,firebase,tailwind,bootstrap,figma,git,heroku,materialui,netlify,postman,threejs"> </a> </p>
+<p align="center"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nextjs,github,mongodb,css,html,express,nodejs,react,redux,firebase,tailwind,bootstrap,figma,git,heroku,materialui,netlify,postman,threejs"> </a> </p>
 
 
 
