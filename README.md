@@ -52,12 +52,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rezvirayhan2002) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezvirayhan)  
 
-<p align="center">
-  <a href="https://github.com/rezvirayhan">
-    <img src="https://github.com/rezvirayhan/rezvirayhan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  </a>
-</p>
-
 ---
 
+<p align="center">
+  <img src="https://github.com/rezvirayhan/rezvirayhan/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 ![Profile views](https://visitcount.itsvg.in/api?id=rezvirayhan&icon=0&color=0)
+
+
