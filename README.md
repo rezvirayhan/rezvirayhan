@@ -21,8 +21,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvirayhan&theme=gruvbox&stroke=f53b3b&card_width=500&bg_color=0d1117">
 </p>
 
-## Top Languages
+## Contribution Activity
+
 
 <p>
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rezvirayhan&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+ [!(https://github-readme-activity-graph.vercel.app/graph?username=rezvirayhan&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </p>
