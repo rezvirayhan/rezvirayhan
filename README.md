@@ -1,7 +1,11 @@
 <div>
       <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RezviRayhan&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20|%20MERN%20Specialist&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+</div>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=800&color=00F7F7&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=600&height=100&lines=Software+Developer✨;Building+Scalable+Modern+Website+%F0%9F%9A%80;MERN+Stack+Expert+%F0%9F%92%BB;Next.js+Enthusiast+%E2%9A%A1;Clean+Code+Advocate+%E2%9C%A8)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
