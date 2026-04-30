@@ -5,9 +5,6 @@
 </div>
 
 <div align="center">
-
-## 🌐 **CONNECT WITH ME**
-
 <table>
   <tr>
     <td align="center">
