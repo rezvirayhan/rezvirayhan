@@ -46,10 +46,6 @@
 <p > <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nextjs,github,mongodb,css,html,express,nodejs,react,redux,firebase,tailwind,bootstrap,figma,git,heroku,materialui,netlify,postman,threejs"> </a> </p>
 
 
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rezvirayhan&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rezvirayhan&theme=dark&hide_border=false)<br/>
 
 ## Top Languages
