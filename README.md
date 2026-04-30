@@ -8,31 +8,6 @@
 
 </div>
 
-<div align="center">
-<table>
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/devrezvirayhan/">
-        <img src="https://skillicons.dev/icons?i=linkedin" width="65px"/><br/>
-        <sub><b>LinkedIn</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.facebook.com/devrezvirayhan">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="65px"/><br/>
-        <sub><b>Facebook</b></sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://wa.me/8801727979966">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="65px"/><br/>
-        <sub><b>WhatsApp</b></sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -58,3 +33,28 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rezvirayhan&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/rezvirayhan/github-readme-activity-graph)
 
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/devrezvirayhan/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="65px"/><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/devrezvirayhan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="65px"/><br/>
+        <sub><b>Facebook</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/8801727979966">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="65px"/><br/>
+        <sub><b>WhatsApp</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
