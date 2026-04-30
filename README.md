@@ -1,5 +1,41 @@
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/devrezvirayhan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rezvirayhan2002) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezvirayhan) 
+<div>
+      <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=RezviRayhan&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20|%20MERN%20Specialist&descAlignY=51&descAlign=50&animation=twinkling" width="100%"/>
+</div>
+
+<div align="center">
+
+## 🌐 **CONNECT WITH ME**
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/devrezvirayhan/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="65px"/><br/>
+        <sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.facebook.com/devrezvirayhan">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="65px"/><br/>
+        <sub><b>Facebook</b></sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://wa.me/8801727979966">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="65px"/><br/>
+        <sub><b>WhatsApp</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+</div>
 <p align="center">
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">  
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
