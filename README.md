@@ -23,7 +23,7 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rezvirayhan&theme=dark&hide_border=false)<br/>
 
-## Top Languages
+### Top Languages
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvirayhan&theme=gruvbox&stroke=f53b3b&card_width=500&bg_color=0d1117">
