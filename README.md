@@ -51,7 +51,7 @@
     <td align="center">
       <a href="https://wa.me/8801727979966">
         <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" width="65px"/><br/>
-        <sub><b>WhatsApp</b></sub>
+        <sub><b>Whats App</b></sub>
       </a>
     </td>
   </tr>
