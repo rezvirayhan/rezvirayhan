@@ -16,7 +16,7 @@
   <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">  
   <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100"><img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="100"><img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100"><img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">
 </p>
-
+<br>    
 <br>    
 <p > <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=js,ts,vscode,nextjs,github,mongodb,css,html,express,nodejs,react,redux,firebase,tailwind,bootstrap,figma,git,heroku,materialui,netlify,postman,threejs"> </a> </p>
 
