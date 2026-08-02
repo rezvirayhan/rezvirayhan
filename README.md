@@ -23,11 +23,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rezvirayhan&theme=dark&hide_border=false)<br/>
 
-## Top Languages
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezvirayhan&theme=gruvbox&stroke=f53b3b&card_width=500&bg_color=0d1117">
-</p>
 
 ## Contribution Activity 
 
@@ -58,3 +53,14 @@
 </table>
 
 </div>
+
+## 🤝 Let's Build Something Amazing  
+
+I'm always open to collaborating on open-source tools, agentic AI architectures, or high-performance Django systems. If you are scaling a backend, engineering intelligent workflows, or just want to talk shop about query optimization, feel free to reach out!
+
+---
+
+## 🏅 GitHub Insights
+<p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=rezvirayhan&theme=radical&graph=true&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
