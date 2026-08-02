@@ -23,11 +23,6 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rezvirayhan&theme=dark&hide_border=false)<br/>
 
-
-## Contribution Activity 
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rezvirayhan&bg_color=282c34&color=ffffff&line=61dafb&point=61dafb&area=true&hide_border=true)](https://github.com/rezvirayhan/github-readme-activity-graph)
-
 <div align="center">
 <table>
   <tr>
